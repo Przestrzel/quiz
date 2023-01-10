@@ -1,0 +1,21 @@
+@import "../../styles/variables.scss";
+
+.layout {
+  padding: 24px 30px;
+  background-color: $dark-blue;
+  height: calc(100vh - 24px);
+  width: calc(100vw - 60px);
+  padding-top: 0;
+  position: relative;
+
+  img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    @include unselectableText;
+    width: 320px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}

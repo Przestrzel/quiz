@@ -1,0 +1,14 @@
+
+$dark-blue: #00004d;
+$persian-blue: #192bc2;
+
+@mixin text {
+  color: #EBEBEB;
+}
+
+@mixin unselectableText {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
