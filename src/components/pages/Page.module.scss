@@ -3,6 +3,8 @@
 .container {
   @include text;
   position: relative;
+  display: flex;
+  align-items: center;
   header {
     @include unselectableText;
     color: white;

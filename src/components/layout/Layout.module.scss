@@ -1,10 +1,10 @@
 @import "../../styles/variables.scss";
 
 .layout {
-  padding: 24px 30px;
+  padding: 24px 0;
   background-color: $dark-blue;
   height: calc(100vh - 24px);
-  width: calc(100vw - 60px);
+  width: calc(100vw);
   padding-top: 0;
   position: relative;
   background: linear-gradient(-45deg, $dark-blue, #002366, #192bc2, #0000ff);
