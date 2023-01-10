@@ -7,6 +7,9 @@
   width: calc(100vw - 60px);
   padding-top: 0;
   position: relative;
+  background: linear-gradient(-45deg, $dark-blue, #002366, #192bc2, #0000ff);
+	background-size: 400% 400%;
+	animation: gradient 12s ease infinite;
 
   img {
     display: flex;
@@ -17,5 +20,18 @@
     position: relative;
     left: 50%;
     transform: translateX(-50%);
+    z-index: 999;
   }
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
 }

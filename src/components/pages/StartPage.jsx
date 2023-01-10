@@ -14,7 +14,7 @@ const StartPage = () => {
       <header>Walka o prezent!</header>
 
       <button className={styles.startGameButton} onClick={handleStartGame}>
-        Rozpocznij
+        Start
       </button>
     </div>
   )

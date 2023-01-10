@@ -29,9 +29,21 @@
     font-size: 24px;
     cursor: pointer;
     text-transform: uppercase;
-    border: 2px solid rgba(#1560bd, 0.4);
-    border-radius: 20px;
-    height: 80px;
-    width: 400px;
+    border: 2px solid rgba($denim, 0.4);
+    background-color: $denim;
+    border-radius: 10px;
+    height: 60px;
+    width: 280px;
+    transition: all 0.3s ease-out;
+
+    &:hover {
+      background-color: rgba($dark-blue2, 0.8);
+      width: 300px;
+      border-radius: 20px;
+    }
+
+    &:active {
+      background-color: rgba($dark-blue2, 1);
+    }
   }
 }
