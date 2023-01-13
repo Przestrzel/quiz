@@ -1,0 +1,28 @@
+@import "../../../styles/_variables.scss";
+
+.congratulations {
+  position: absolute;
+  left: 50%;
+  top: 350px;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  div {
+    @include text;
+    @include unselectableText;
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+  }
+
+  svg {
+    width: 300px;
+    height: 300px;
+    margin-top: 40px;
+    path {
+      fill: #FFC0CB;
+    }
+  }
+}

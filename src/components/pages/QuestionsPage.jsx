@@ -4,6 +4,7 @@ import { QuestionsContextProvider, useQuestionsContext } from '../../context/Que
 import QuestionProgress from '../questions/questionProgress/QuestionProgress';
 import styles from './Page.module.scss';
 import Question from '../questions/Question';
+import Congratulations from '../common/congratulations/Congratulations';
 
 const QuestionsPage = () => {
   const { state: { questionIndex } } = useQuestionsContext();
@@ -12,9 +13,7 @@ const QuestionsPage = () => {
   const isQuizFinished = count === questionIndex;
 
   if (isQuizFinished) {
-    return <div>
-      GRATULACJA
-    </div>
+    return <Congratulations />
   }
 
   return (
