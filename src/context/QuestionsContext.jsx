@@ -1,7 +1,12 @@
 import React, { createContext, useContext, useReducer } from 'react';
 
 const defaultState = {
-  questionIndex: 0
+  questionIndex: 0,
+  helpers: {
+    telephone: null,
+    fiftyFifty: null,
+    audience: null,
+  }
 };
 
 const QuestionsContext = createContext(undefined);
@@ -10,6 +15,9 @@ const questionsReducer = (state, action) => {
   switch (action.type) {
     case 'NEXT_QUESTION': {
       return { ...state, questionIndex: state.questionIndex + 1 };
+    }
+    case 'USE_HELPER': {
+      return { ...state, helpers: { ...state.helpers, [action.helper]: state.questionIndex } };
     }
     case 'RESET': {
       return defaultState;

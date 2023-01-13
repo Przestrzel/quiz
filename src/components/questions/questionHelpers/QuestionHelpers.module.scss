@@ -1,0 +1,41 @@
+@import "../../../styles/_variables.scss";
+
+.helpers {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 16px;
+  margin: 16px 0;
+
+  &Container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+
+  .helperButton {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    outline: none;
+    border: 1px solid white;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+
+    &Used{
+      background-color: $old-yellow;
+      cursor: not-allowed;
+    }
+
+    svg {
+      width: 32px;
+      height: 32px;
+      path {
+        fill: white;
+      }
+    }
+  }
+}

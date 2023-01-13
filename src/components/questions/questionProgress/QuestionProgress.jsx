@@ -2,6 +2,7 @@ import React from 'react'
 import useQuestions from '../../../hooks/useQuestions';
 import { useQuestionsContext } from '../../../context/QuestionsContext';
 import styles from './QuestionProgress.module.scss';
+import QuestionHelpers from '../questionHelpers/QuestionHelpers';
 
 const QuestionProgress = () => {
   const { state: { questionIndex } } = useQuestionsContext();
@@ -17,9 +18,7 @@ const QuestionProgress = () => {
 
   return (
     <div className={styles.progressContainer}>
-      <div>
-        KOŁA RATUNKOWE
-      </div>
+      <QuestionHelpers />
       <div className={styles.questions}>
       {
       questions.map((question, index) => (
