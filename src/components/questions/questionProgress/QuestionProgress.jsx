@@ -1,9 +1,11 @@
 import React from 'react'
 import useQuestions from '../../../hooks/useQuestions';
+import { useQuestionsContext } from '../../../context/QuestionsContext';
 import styles from './QuestionProgress.module.scss';
 
-const QuestionProgress = ({ currentQuestion }) => {
-  const { questions, getAuthor, count } = useQuestions();
+const QuestionProgress = () => {
+  const { state: { questionIndex } } = useQuestionsContext();
+  const { questions, getAuthor } = useQuestions();
 
   const formatAuthor = (question) => {
     const author = getAuthor(question);
@@ -25,8 +27,8 @@ const QuestionProgress = ({ currentQuestion }) => {
           key={`progress__${question.id}`}
           className={`
             ${styles.questionIndicator}
-            ${index === currentQuestion ? styles.currentQuestion : ''}
-            ${index < currentQuestion ? styles.answeredQuestion : ''}
+            ${index === questionIndex ? styles.currentQuestion : ''}
+            ${index < questionIndex ? styles.answeredQuestion : ''}
             `}>
           <div className={styles.questionIndicator__number}>{index + 1}</div>
           <div className={styles.questionIndicator__author}>

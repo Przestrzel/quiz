@@ -1,18 +1,36 @@
-import React, { useState } from 'react'
+import React from 'react'
 import useQuestions from '../../hooks/useQuestions';
+import { QuestionsContextProvider, useQuestionsContext } from '../../context/QuestionsContext';
 import QuestionProgress from '../questions/questionProgress/QuestionProgress';
 import styles from './Page.module.scss';
+import Question from '../questions/Question';
 
 const QuestionsPage = () => {
-  const [ currentQuestion, setCurrentQuestion ] = useState(14);
-  const { questions, getQuestionText } = useQuestions();
+  const { state: { questionIndex } } = useQuestionsContext();
+  const { count } = useQuestions();
+
+  const isQuizFinished = count === questionIndex;
+
+  if (isQuizFinished) {
+    return <div>
+      GRATULACJA
+    </div>
+  }
 
   return (
     <div className={styles.container}>
-      <div style={{width: "90%"}}>QUESTIONS</div>
-      <QuestionProgress currentQuestion={currentQuestion} />
+      <Question />
+      <QuestionProgress />
     </div>
   )
 }
 
-export default QuestionsPage
+const wrapper = () => {
+  return (
+    <QuestionsContextProvider>
+      <QuestionsPage />
+    </QuestionsContextProvider>
+  )
+}
+
+export default wrapper

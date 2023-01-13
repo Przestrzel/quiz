@@ -2,7 +2,7 @@
 
 .progressContainer {
   height: calc(100vh - 16px);
-  border-left: 2px solid black;
+  border-left: 1px solid rgba($dark-blue, 0.4);
   position: absolute;
   top: -320px;
   right: 0;
@@ -55,7 +55,6 @@
         height: 28px;
         background-color: rgba($old-yellow, 0.7);
         position: absolute;
-        top: 28px;
         left: -40px;
         animation: pulse 2s infinite;
       }
