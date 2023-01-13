@@ -19,7 +19,7 @@ const useQuestions = () => {
   }
 
   const getCorrectAnswerIndex = (question) => {
-    return question["Correct Answer"];
+    return +question["Correct Answer"];
   }
 
   const isAnswerCorrect = (question, answerIndex) => {

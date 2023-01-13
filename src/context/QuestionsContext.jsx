@@ -9,7 +9,7 @@ const QuestionsContext = createContext(undefined);
 const questionsReducer = (state, action) => {
   switch (action.type) {
     case 'NEXT_QUESTION': {
-      return { ...state, question: state.question + 1 };
+      return { ...state, questionIndex: state.questionIndex + 1 };
     }
     case 'RESET': {
       return defaultState;

@@ -72,4 +72,12 @@
   .picked {
     background-color: rgba($old-yellow, 0.9);
   }
+
+  .correct {
+    background-color: rgba($success-green, 1);
+  }
+
+  .incorrect {
+    background-color: $error-red;
+  }
 }
