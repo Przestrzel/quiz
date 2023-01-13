@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/quiz/static/css/main.165d4897.css",
+    "main.js": "/quiz/static/js/main.4d3bac67.js",
+    "static/js/787.83904489.chunk.js": "/quiz/static/js/787.83904489.chunk.js",
+    "static/media/milioners.png": "/quiz/static/media/milioners.97f24bd5e2cfd14ad687.png",
+    "static/media/fiftyFifty.svg": "/quiz/static/media/fiftyFifty.9ce955bde18712325eca4e9ed39cd567.svg",
+    "static/media/audience.svg": "/quiz/static/media/audience.1c7b3bf9c703fd04e517d98c734ac5c8.svg",
+    "static/media/gift.svg": "/quiz/static/media/gift.ded71d3e8813857c37ddced1560ae0e7.svg",
+    "static/media/telephone.svg": "/quiz/static/media/telephone.04d94be4d7ad7589adf3b846b901ecf7.svg",
+    "index.html": "/quiz/index.html",
+    "static/media/arrow-right.svg": "/quiz/static/media/arrow-right.377a106da674e91416bae8c48782bf17.svg",
+    "main.165d4897.css.map": "/quiz/static/css/main.165d4897.css.map",
+    "main.4d3bac67.js.map": "/quiz/static/js/main.4d3bac67.js.map",
+    "787.83904489.chunk.js.map": "/quiz/static/js/787.83904489.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.165d4897.css",
+    "static/js/main.4d3bac67.js"
+  ]
+}
