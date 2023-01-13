@@ -59,6 +59,7 @@ const Question = () => {
 
     setFilteredAnswers(getTwoIncorrectAnswerIndex());
 
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [ helpers.fiftyFifty, questionIndex ])
 
 
