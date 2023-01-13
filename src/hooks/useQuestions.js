@@ -34,10 +34,6 @@ const useQuestions = () => {
     return question["Question"];
   }
 
-  const getQuestionByText = (text) => {
-    return getData().find(question => getQuestionText(question) === text)
-  }
-
   const count = () => {
     return getData().length;
   }
