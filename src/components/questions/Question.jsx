@@ -3,6 +3,7 @@ import useQuestions from '../../hooks/useQuestions';
 import { useQuestionsContext } from '../../context/QuestionsContext';
 import styles from './Question.module.scss';
 import AnswerButton from './answerButton/AnswerButton';
+import { ReactComponent as ArrowRight } from '../../assets/arrow-right.svg';
 
 const Question = () => {
   const { state: { questionIndex } } = useQuestionsContext();
@@ -11,11 +12,8 @@ const Question = () => {
   const question = useMemo(() => questions[questionIndex], [questionIndex, questions]);
 
   const onAnswer = useCallback((answerIndex) => {
-    if(pickedQuestion === answerIndex){
-      setPickedQuestion(null);
-    }
     setPickedQuestion(answerIndex);
-  }, [ pickedQuestion ]);
+  }, [ ]);
 
   return (
     <div className={styles.question}>
@@ -32,6 +30,17 @@ const Question = () => {
               onClick={() => onAnswer(index)}
             />
           ))
+        }
+      </div>
+      <div className={styles.questionConfirmation}>
+        <div />
+        {
+          pickedQuestion != null ?
+          <button onClick={() => null}>
+            <div>Definitywnie</div>
+            <ArrowRight />
+          </button>
+        : null
         }
       </div>
     </div>
