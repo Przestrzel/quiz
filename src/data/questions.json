@@ -1,23 +1,161 @@
 [
-  {
-    "Author": "Adamewicz",
-    "Question": "Jaka była odczuwalna temperatura nocą w Barłominie, na wyjeździe we wrześniu?",
-    "Answers": ["Lekutkie wrześniowe 13℃",
-    "Ciepła upalna noc 18℃",
-    "Zimny wieczór 7℃",
-    "Jak było na plusie to jestem w szoku"
-    ],
-    "Correct Answer": "3"
+    {
+        "Author": "Adamewicz",
+        "Question": "Jaka była odczuwalna temperatura nocą w Barłominie, na wyjeździe we wrześniu?",
+        "Answers": ["Leciutkie wrześniowe 13℃","Ciepła upalna noc 18℃","Zimny wieczór 7℃","Jak było na plusie to jestem w szoku"],
+        "Correct Answer": "3"
     },
     {
-    "Author":"Alicja Szerszyńska",
-    "Question":"Za jakim piwem w pubie tęskni Quebonafide w piosence \"Bubbletea\"?",
-    "Answers":[
-    "Za kormoranem",
-    "Za ciechanem",
-    "Za cieszynem",
-    "Za łomżą"
-    ],
-    "Correct Answer": "1"
+        "Author":"Alicja Szerszyńska",
+        "Question":"Za jakim piwem w pubie tęskni Quebonafide w piosence Bubbletea?",
+        "Answers":[
+        "Za kormoranem",
+        "Za ciechanem",
+        "Za cieszynem",
+        "Za łomżą"
+        ],
+        "Correct Answer":"1"
+    },
+    {
+        "Author": "Oliwia Wlaźlak",
+        "Question": "Wiedząc, że w konstrukcjach żelbetowych wykorzystuje się wzajemnie uzupełniające cechy wytrzymałościowe stali i betonu (stal ma wysoką wytrzymałość na rozciąganie, beton na ściskanie), wskaż poprawny sposób rozmieszczenia zbrojenia w utwierdzonej w stropie płycie betonowej.",
+        "Answers": ["Zbrojenie w dolnej części przekroju",
+        "Zbrojenie tylko na swobodnym końcu płyty (dołem)",
+        "Zbrojenie w górnej części przekroju",
+        "Zbrojenie w środku wysokości przekroju płyty"],
+        "Correct Answer": "2"
+    },
+    {
+        "Author": "Michał Kornacki",
+        "Question": "Kiedy powstał Disneyland pod Paryżem?",
+        "Answer": ["rok przed Chrystusem",
+        "1992",
+        "Wspaniały to był rok, nie zapomnę go nigdy",
+        "1989"],
+        "Correct answer": 1
+    },
+    {
+        "Author": "Hania",
+        "Question": "W jakim mieście, podczas licealnej wycieczki do Włoch, nauczyciele zaczęli się na siebie wydzierać?",
+        "Answers": [" Pompeje",
+        "Asyż",
+        " Rzym ",
+        " Wenecja "],
+        "Correct Answer": "1"
+    },
+    {
+        "Author": "Anna Grabowska",
+        "Question": "Co towarzyszy Sanah na wynos?",
+        "Answers ": ["szampan",
+        "whisky",
+        "kawka",
+        "papieros"],
+        "Correct Answer": 2
+    },
+    {
+        "Author": "Magdalena Zarębska",
+        "Question": "Pod koniec 2022r. w Elblągu powstały małe, mosiężne figury Piekarczyków, np. Piekarczyk z gęsim piórem. Ile łącznie powstało takich 50-centymetrowych figurek?",
+        "Answers ":["5",
+        "10",
+        "7",
+        "18"],
+        "Correct Answer":0
+    },
+    {
+        "Author": "Daria",
+        "Question": "Węzeł integracyjny to:",
+        "Answers ": ["plecionka tworzona podczas integracji studenckiej",
+        "miniaturowe miejsce integracji - centrum życia publicznego",
+        "miejsce umożliwiające zmianę środka transportu wraz z potrzebną infrastrukturą",
+        "splot tworzony na linach różnej długości, aby powiększyć tę długość dwukrotnie"],
+        "Correct Answer": 2
+    },
+    {
+        "Author": "Daria",
+        "Question": "Czego nie ma we Wrocławiu?",
+        "Answers ": ["neonu: Dobry wieczór we Wrocławiu",
+        "Stadionu Tarczyński Arena",
+        "Biletomatów w komunikacji miejskiej",
+        "Trolejbusów"],
+        "Correct Answer": 3
+    },
+    {
+    "Author": "Jan Marciniak",
+    "Question": "Samolot Tu-154 lecący z Polski do Smoleńska rozbił się na granicy Białorusi i Rosji dnia 1 kwietnia 2011 roku. Na terenie jakiego państwa dokonao pochówku ocalałych z tej katastofy, zgodnie z polskim prawem?",
+    "Answers ": ["Polski", "Białorusi", "Jest to zakazane", "Rosji"],
+    "Correct Answer": 2
+    },
+    {
+        "Author": "Natalia Front",
+        "Question": "Jakie zęby mleczne wyrzynają się jako pierwsze?",
+        "Answers ": ["dolne siekacze przyśrodkowe",
+        "górne siekacze przyśrodkowe",
+        "dolne pierwsze trzonowce",
+        "górne siekacze boczne"],
+        "Correct Answer": 0
+    },
+    {
+        "Author": "Pitor Woźniacki",
+        "Question": "Który z wymienionych panów jest chętny do pomocy w remoncie, dokładniej to do kładzenia płytek, z zastrzeżeniem, że nie będzie używał krzyżyków?",
+        "Answers ": ["Adam Karabiniewicz", 
+        "Marek Przestrzelski", 
+        "Pitor Woźniacki", 
+        "Jan Marciniak"],
+        "Correct Answer": 2
+    },
+    {
+    "Author": "Pitor Woźniacki",
+        "Question": "'Malborski bilard' to określenie wymyślone na jakie zagranie/zasadę w bilardzie?",
+        "Answers ": ["Odsunięcie białej bili przylegającej do bandy o szerokość kija, aby łatwiej można było ją uderzyć", 
+        "Wbicie co najmniej jednej bili podczas rozbijania", 
+        "Wbijanie, czarnej bili do łuzy przeciwnej w stosunku do ostatniej wbitej przez gracza bili", 
+        "Faul spowodowany wybiciem bili poza stół"],
+        "Correct Answer": 0
+    },
+    {
+        "Author": "Adi",
+        "Question": "Dokończ słowa piosenki 2:00: Mogłam wziąć cię do tańca ostatni raz...",
+        "Answers": [
+        "I obiecać, że dom należy do nas",
+        "Teraz jakoś magicznie chcę cofnąć czas",
+        "I obiecać, że parkiet jest tylko nasz",
+        "Teraz jakoś magicznie chcę zmienić czas"],
+        "Correct Answer": "2"
+    },
+    {
+        "Author": "Lorek",
+        "Question": "Który kraj jest największym producentem kawy?",
+        "Answers": ["Kolumbia",
+        "Brazylia",
+        "Indonezja",
+        "Wietnam"],
+        "Correct Answer": 1
+    },
+    {
+        "Author": "Lorek",
+        "Question": "Pewien Polak zajmuje czołowe miejsce w klasyfikacji generalnej Pucharu Świata w skokach narciarskich wyprzedzając Halvora Egnera Graneruda o 114 punktów. Któż jest tą zacną osobistością?",
+        "Answers": ["Piotr Żyła",
+        "Kamil Stoch",
+        "Stefan Kraft",
+        "Dawid Kubacki"],
+        "Correct Answer": 3
+    },
+    {
+        "Author": "Lorek",
+        "Question": "Polacy piją coraz więcej alkoholu. W 2021 r. wydaliśmy na napoje wyskokowe prawie 45 mld zł, czyli o 4 mld zł więcej niż w 2020 r. MoneyTransfers.com podaje, że przeciętne polskie gospodarstwo domowe, na które składają się dwie osoby, wydaje miesięcznie na alkohol 170 zł. Ile litrów czystego alkoholu spożywa rocznie przeciętny Polak",
+        "Answers": ["7l",
+        "10l",
+        "16;",
+        "24"],
+        "Correct Answer": 1
+    },
+    {
+        "Author": "Domi",
+        "Question": "PLNY LALA powstała w 2012 roku, między innymi za sprawą ...., która jest graficzką i dyrektorką kreatywną marki:",
+        "Answers": [" PEZET ",
+        " NATALIA SIWIEC ",
+        " ELISA MINETTI ",
+        " GIGI HADID "],
+        "Correct Answer": "2"
     }
 ]
