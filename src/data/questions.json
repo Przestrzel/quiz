@@ -28,7 +28,7 @@
     {
         "Author": "Michał Kornacki",
         "Question": "Kiedy powstał Disneyland pod Paryżem?",
-        "Answer": ["rok przed Chrystusem",
+        "Answers": ["rok przed Chrystusem",
         "1992",
         "Wspaniały to był rok, nie zapomnę go nigdy",
         "1989"],
@@ -97,18 +97,18 @@
     {
         "Author": "Pitor Woźniacki",
         "Question": "Który z wymienionych panów jest chętny do pomocy w remoncie, dokładniej to do kładzenia płytek, z zastrzeżeniem, że nie będzie używał krzyżyków?",
-        "Answers ": ["Adam Karabiniewicz", 
-        "Marek Przestrzelski", 
-        "Pitor Woźniacki", 
+        "Answers ": ["Adam Karabiniewicz",
+        "Marek Przestrzelski",
+        "Pitor Woźniacki",
         "Jan Marciniak"],
         "Correct Answer": 2
     },
     {
     "Author": "Pitor Woźniacki",
         "Question": "'Malborski bilard' to określenie wymyślone na jakie zagranie/zasadę w bilardzie?",
-        "Answers ": ["Odsunięcie białej bili przylegającej do bandy o szerokość kija, aby łatwiej można było ją uderzyć", 
-        "Wbicie co najmniej jednej bili podczas rozbijania", 
-        "Wbijanie, czarnej bili do łuzy przeciwnej w stosunku do ostatniej wbitej przez gracza bili", 
+        "Answers ": ["Odsunięcie białej bili przylegającej do bandy o szerokość kija, aby łatwiej można było ją uderzyć",
+        "Wbicie co najmniej jednej bili podczas rozbijania",
+        "Wbijanie, czarnej bili do łuzy przeciwnej w stosunku do ostatniej wbitej przez gracza bili",
         "Faul spowodowany wybiciem bili poza stół"],
         "Correct Answer": 0
     },
