@@ -1,9 +1,24 @@
 [
     {
+        "Author": "Piotruś",
+        "Question": "Czemu równa się HotDog z ketchupem + HotDog z musztardą?",
+        "Answers": ["-1/12","Brzuch Najedzony","Problem da się rozwiązać jedynie w Pierścieniu Liczb Z5","6,02214076*10^(-23) mol^(-1)"],
+        "Correct Answer": "1"
+    },
+    {
         "Author": "Adamewicz",
         "Question": "Jaka była odczuwalna temperatura nocą w Barłominie, na wyjeździe we wrześniu?",
         "Answers": ["Leciutkie wrześniowe 13℃","Ciepła upalna noc 18℃","Zimny wieczór 7℃","Jak było na plusie to jestem w szoku"],
         "Correct Answer": "3"
+    },
+    {
+        "Author": "Łukasz Nojman",
+        "Question": "Według raportu z 2020 roku co jest najlepiej sprzedającym się produktem sieci Ikea?",
+        "Answers": ["hot dog",
+        "biurko - Bingwell",
+        "klopsik szwedzki",
+        "stolik - Lack"],
+        "Correct Answer": 2
     },
     {
         "Author":"Alicja Szerszyńska",
@@ -26,13 +41,22 @@
         "Correct Answer": "2"
     },
     {
+        "Author": "Lorek",
+        "Question": "Pewien Polak zajmuje czołowe miejsce w klasyfikacji generalnej Pucharu Świata w skokach narciarskich wyprzedzając Halvora Egnera Graneruda o 114 punktów. Któż jest tą zacną osobistością?",
+        "Answers": ["Piotr Żyła",
+        "Kamil Stoch",
+        "Stefan Kraft",
+        "Dawid Kubacki"],
+        "Correct Answer": 3
+    },
+    {
         "Author": "Michał Kornacki",
         "Question": "Kiedy powstał Disneyland pod Paryżem?",
         "Answers": ["rok przed Chrystusem",
         "1992",
         "Wspaniały to był rok, nie zapomnę go nigdy",
         "1989"],
-        "Correct Answer": "1"
+        "Correct Answer": 1
     },
     {
         "Author": "Hania",
@@ -71,6 +95,24 @@
         "Correct Answer": 2
     },
     {
+        "Author": "Marek Przestrzelski",
+        "Question": "Co to znaczy spalony w piłce nożnej?",
+        "Answers": ["Piłkarz o kolorze skóry podobnym do smoły",
+        "Akcja piłkarza która się nie udała (została spalona)",
+        "Sytuacja gdy zawodnik drużyny broniącej był przed zawodnikiem drużyny atakującej w momencie podania (na polowie broniących)",
+        "Sytuacja gdy zawodnik drużyny atakujacej był przed zawodnikiem drużyny broniacej w momencie podania (na polowie broniących)"],
+        "Correct Answer": 2
+    },
+    {
+        "Author": "Natalia Front",
+        "Question": "Jakie zęby mleczne wyrzynają się jako pierwsze?",
+        "Answers": ["dolne siekacze przyśrodkowe",
+        "górne siekacze przyśrodkowe",
+        "dolne pierwsze trzonowce",
+        "górne siekacze boczne"],
+        "Correct Answer": 0
+    },
+    {
         "Author": "Daria",
         "Question": "Czego nie ma we Wrocławiu?",
         "Answers": ["neonu: Dobry wieczór we Wrocławiu",
@@ -86,22 +128,13 @@
     "Correct Answer": 2
     },
     {
-        "Author": "Natalia Front",
-        "Question": "Jakie zęby mleczne wyrzynają się jako pierwsze?",
-        "Answers": ["dolne siekacze przyśrodkowe",
-        "górne siekacze przyśrodkowe",
-        "dolne pierwsze trzonowce",
-        "górne siekacze boczne"],
-        "Correct Answer": 0
-    },
-    {
-        "Author": "Pitor Woźniacki",
-        "Question": "Który z wymienionych panów jest chętny do pomocy w remoncie, dokładniej to do kładzenia płytek, z zastrzeżeniem, że nie będzie używał krzyżyków?",
-        "Answers": ["Adam Karabiniewicz",
-        "Marek Przestrzelski",
-        "Pitor Woźniacki",
-        "Jan Marciniak"],
-        "Correct Answer": 2
+        "Author": "Lorek",
+        "Question": "Polacy piją coraz więcej alkoholu. W 2021 r. wydaliśmy na napoje wyskokowe prawie 45 mld zł, czyli o 4 mld zł więcej niż w 2020 r. MoneyTransfers.com podaje, że przeciętne polskie gospodarstwo domowe, na które składają się dwie osoby, wydaje miesięcznie na alkohol 170 zł. Ile litrów czystego alkoholu spożywa rocznie przeciętny Polak",
+        "Answers": ["7l",
+        "10l",
+        "16;",
+        "24"],
+        "Correct Answer": 1
     },
     {
     "Author": "Pitor Woźniacki",
@@ -132,24 +165,6 @@
         "Correct Answer": 1
     },
     {
-        "Author": "Lorek",
-        "Question": "Pewien Polak zajmuje czołowe miejsce w klasyfikacji generalnej Pucharu Świata w skokach narciarskich wyprzedzając Halvora Egnera Graneruda o 114 punktów. Któż jest tą zacną osobistością?",
-        "Answers": ["Piotr Żyła",
-        "Kamil Stoch",
-        "Stefan Kraft",
-        "Dawid Kubacki"],
-        "Correct Answer": 3
-    },
-    {
-        "Author": "Lorek",
-        "Question": "Polacy piją coraz więcej alkoholu. W 2021 r. wydaliśmy na napoje wyskokowe prawie 45 mld zł, czyli o 4 mld zł więcej niż w 2020 r. MoneyTransfers.com podaje, że przeciętne polskie gospodarstwo domowe, na które składają się dwie osoby, wydaje miesięcznie na alkohol 170 zł. Ile litrów czystego alkoholu spożywa rocznie przeciętny Polak",
-        "Answers": ["7l",
-        "10l",
-        "16;",
-        "24"],
-        "Correct Answer": 1
-    },
-    {
         "Author": "Domi",
         "Question": "PLNY LALA powstała w 2012 roku, między innymi za sprawą ...., która jest graficzką i dyrektorką kreatywną marki:",
         "Answers": [" PEZET ",
@@ -157,5 +172,53 @@
         " ELISA MINETTI ",
         " GIGI HADID "],
         "Correct Answer": "2"
+    },
+    {
+        "Author": "Wojciech Adrych",
+        "Question": "Ile kosztował ananas, a ile dolewka w Blue Lagoon?",
+        "Answers": ["6 i 3 euro",
+
+        "6 i 3 liry",
+
+        "10 i 5 euro",
+
+        "10 i 5 liry"],
+        "Correct Answer": "2"
+    },
+    {
+        "Author": "Lorek",
+        "Question": "Usain Bolt w kwiecie swojej kariery osiągnął niepojętą prędkość 44 km/h. Od razu do głowy przychodzi pytanie czy ten nadczłowiek uciekłby przed goniącym go hipopotamem? Jaką prędkość może osiągnąć hipcio?",
+        "Answers": ["Do 20 km/h",
+        "Do 30 km/h",
+        "Do 40 km/h",
+        "Do 50 km/h"],
+        "Correct Answer": 3
+    },
+    {
+        "Author": "Łukasz Nojman",
+        "Question": "Jak długa jest i skąd wyrusza najdłuższa trasa pielgrzymki do Częstochowy?",
+        "Answers": ["około 400km - z Lubawy",
+        "około 620km - ze Szczecina",
+        "około 550km - z Gdańska",
+        "około 640km - z Helu"],
+        "Correct Answer": 3
+    },
+    {
+        "Author": "Anna Grabowska",
+        "Question": "Co oznacza filotaksja",
+        "Answers": ["tekst poboczny",
+        "specjalizacja zajmująca się terminologiami",
+        "gra planszowa o problematyce językowej",
+        "regularny układ liści na łodydze roślin"],
+        "Correct Answer": 3
+    },
+    {
+        "Author": "Pitor Woźniacki",
+        "Question": "Który z wymienionych panów jest chętny do pomocy w remoncie, dokładniej to do kładzenia płytek, z zastrzeżeniem, że nie będzie używał krzyżyków?",
+        "Answers": ["Adam Karabiniewicz",
+        "Marek Przestrzelski",
+        "Pitor Woźniacki",
+        "Jan Marciniak"],
+        "Correct Answer": 2
     }
 ]
