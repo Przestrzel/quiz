@@ -24,9 +24,9 @@ const Question = () => {
   const question = useMemo(() => questions[questionIndex], [questionIndex, questions]);
 
   const onPickAnswer = useCallback((answerIndex) => {
-    if(isAnswered || isAnswering) return;
+    if(isAnswered || isAnswering || filteredAnsweres.includes(answerIndex)) return;
     setPickedQuestion(answerIndex);
-  }, [ isAnswered, isAnswering ]);
+  }, [ isAnswered, isAnswering, filteredAnsweres ]);
 
   const resetQuiz = useCallback(() => {
     dispatch({ type: 'RESET' });
@@ -35,7 +35,7 @@ const Question = () => {
 
   useEffect(() => {
     if(isAnswered && !isCorrect) {
-      setTimeout(resetQuiz, 3_000);
+      setTimeout(resetQuiz, 5_000);
     }
   }, [ isAnswered, isCorrect, resetQuiz ])
 
@@ -99,7 +99,7 @@ const Question = () => {
               key={answer}
               text={answer}
               className={`${pickedQuestion === index ? styles.picked : ''}
-              ${pickedQuestion === index && isCorrect && isAnswered ? styles.correct : ''}
+              ${(isAnswered && getCorrectAnswerIndex(question) === index) ? styles.correct : ''}
               ${pickedQuestion === index && !isCorrect && isAnswered ? styles.incorrect : ''}
               ${filteredAnsweres.includes(index) ? styles.filtered : ''}`}
               onClick={() => onPickAnswer(index)}
