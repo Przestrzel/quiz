@@ -32,7 +32,7 @@
         "1992",
         "Wspaniały to był rok, nie zapomnę go nigdy",
         "1989"],
-        "Correct answer": 1
+        "Correct Answer": "1"
     },
     {
         "Author": "Hania",
@@ -46,7 +46,7 @@
     {
         "Author": "Anna Grabowska",
         "Question": "Co towarzyszy Sanah na wynos?",
-        "Answers ": ["szampan",
+        "Answers": ["szampan",
         "whisky",
         "kawka",
         "papieros"],
@@ -55,7 +55,7 @@
     {
         "Author": "Magdalena Zarębska",
         "Question": "Pod koniec 2022r. w Elblągu powstały małe, mosiężne figury Piekarczyków, np. Piekarczyk z gęsim piórem. Ile łącznie powstało takich 50-centymetrowych figurek?",
-        "Answers ":["5",
+        "Answers":["5",
         "10",
         "7",
         "18"],
@@ -64,7 +64,7 @@
     {
         "Author": "Daria",
         "Question": "Węzeł integracyjny to:",
-        "Answers ": ["plecionka tworzona podczas integracji studenckiej",
+        "Answers": ["plecionka tworzona podczas integracji studenckiej",
         "miniaturowe miejsce integracji - centrum życia publicznego",
         "miejsce umożliwiające zmianę środka transportu wraz z potrzebną infrastrukturą",
         "splot tworzony na linach różnej długości, aby powiększyć tę długość dwukrotnie"],
@@ -73,7 +73,7 @@
     {
         "Author": "Daria",
         "Question": "Czego nie ma we Wrocławiu?",
-        "Answers ": ["neonu: Dobry wieczór we Wrocławiu",
+        "Answers": ["neonu: Dobry wieczór we Wrocławiu",
         "Stadionu Tarczyński Arena",
         "Biletomatów w komunikacji miejskiej",
         "Trolejbusów"],
@@ -82,13 +82,13 @@
     {
     "Author": "Jan Marciniak",
     "Question": "Samolot Tu-154 lecący z Polski do Smoleńska rozbił się na granicy Białorusi i Rosji dnia 1 kwietnia 2011 roku. Na terenie jakiego państwa dokonao pochówku ocalałych z tej katastofy, zgodnie z polskim prawem?",
-    "Answers ": ["Polski", "Białorusi", "Jest to zakazane", "Rosji"],
+    "Answers": ["Polski", "Białorusi", "Jest to zakazane", "Rosji"],
     "Correct Answer": 2
     },
     {
         "Author": "Natalia Front",
         "Question": "Jakie zęby mleczne wyrzynają się jako pierwsze?",
-        "Answers ": ["dolne siekacze przyśrodkowe",
+        "Answers": ["dolne siekacze przyśrodkowe",
         "górne siekacze przyśrodkowe",
         "dolne pierwsze trzonowce",
         "górne siekacze boczne"],
@@ -97,7 +97,7 @@
     {
         "Author": "Pitor Woźniacki",
         "Question": "Który z wymienionych panów jest chętny do pomocy w remoncie, dokładniej to do kładzenia płytek, z zastrzeżeniem, że nie będzie używał krzyżyków?",
-        "Answers ": ["Adam Karabiniewicz",
+        "Answers": ["Adam Karabiniewicz",
         "Marek Przestrzelski",
         "Pitor Woźniacki",
         "Jan Marciniak"],
@@ -106,7 +106,7 @@
     {
     "Author": "Pitor Woźniacki",
         "Question": "'Malborski bilard' to określenie wymyślone na jakie zagranie/zasadę w bilardzie?",
-        "Answers ": ["Odsunięcie białej bili przylegającej do bandy o szerokość kija, aby łatwiej można było ją uderzyć",
+        "Answers": ["Odsunięcie białej bili przylegającej do bandy o szerokość kija, aby łatwiej można było ją uderzyć",
         "Wbicie co najmniej jednej bili podczas rozbijania",
         "Wbijanie, czarnej bili do łuzy przeciwnej w stosunku do ostatniej wbitej przez gracza bili",
         "Faul spowodowany wybiciem bili poza stół"],
