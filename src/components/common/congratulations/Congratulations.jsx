@@ -5,7 +5,7 @@ import styles from './Congratulations.module.scss';
 const Congratulations = () => {
   return (
     <div className={styles.congratulations}>
-      <div>Gratulacje, to dla Ciebie!</div>
+      <div>Gratulacje!</div>
       <GiftIcon />
     </div>
   )

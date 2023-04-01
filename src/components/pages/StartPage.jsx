@@ -11,8 +11,7 @@ const StartPage = () => {
 
   return (
     <div className={styles.container}>
-      <header>Walka o prezent!</header>
-
+      <header>Wielki quiz wiedzy ogólnej</header>
       <button className={styles.startGameButton} onClick={handleStartGame}>
         Start
       </button>
