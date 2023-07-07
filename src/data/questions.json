@@ -1,62 +1,74 @@
 [
     {
         "Author": "",
-        "Question": "Jakich słów symbolem są 3 czerwone róże otrzymane od mężczyzny? ",
-        "Answers": ["kocham Cię","chcę być Twój ","na zawsze razem","bądź moja"],
-        "Correct Answer": "0"
-    },
-    {
-        "Author": "",
-        "Question": "Gdzie umarła Coco Chanel?",
-        "Answers": ["w Nicei","W Paryżu","W Nantes","W Tours"],
-        "Correct Answer": "1"
-    },
-    {
-        "Author": "",
-        "Question": "Dokończ cytat: Zawsze wyglądaj tak, jakbyś miała spotkać miłość swojego życia lub...",
-        "Answers": ["najgorszego wroga", "najlepszego przyjaciela", "najgorszego pracodawcę", "najlepszego księdza"],
-        "Correct Answer": "0"
-    },
-    {
-        "Author": "",
-        "Question": "Gdzie znajduje się sklep stacjonarny marki LOU?",
-        "Answers": ["Warszawa", "Leszno", "Poznań", "Katowice"],
-        "Correct Answer": "1"
-    },
-    {
-        "Author": "",
-        "Question": "Jaka jest odległość pomiędzy mieszkaniem Państwa Kruszyńskich, a domem Państwa Hoffmann?",
-        "Answers": ["0,9 km", "1,1 km", "1,3 km", "1,7 km"],
-        "Correct Answer": "2"
-    },
-    {
-        "Author": "",
-        "Question": "Która z dat nie jest dniem, w którym obchodzone są imieniny Alicji?",
-        "Answers": ["21 czerwca", "18 kwietnia", "10 listopada", "9 stycznia"],
-        "Correct Answer": "2"
-    },
-    {
-        "Author": "",
-        "Question": "Co było jednym z najbardziej przełomowych wydarzeń w marcu bieżącego roku?",
-        "Answers": ["Adrian wrócił z Islandii", "Szymon rzucił studia", "Damian z Olą zmienili mieszkanie", "Babcia Jadzia założyła Facebooka"],
+        "Question": "Jak nazywa się nasz sławny sąsiad?",
+        "Answers": ["Jony Balcony","MR goła klata ","MR naked chest","MR Balcony"],
         "Correct Answer": "3"
     },
     {
         "Author": "",
-        "Question": "Ile lat łącznie mają wszystkie Twoje siostry? (rocznikowo)",
-        "Answers": ["146", "147", "144", "150"],
+        "Question": "Nazwa nowego Macluarina to:",
+        "Answers": ["Torpeda","Petarda","Strzała","Wybuchowa"],
+        "Correct Answer": "0"
+    },
+    {
+        "Author": "",
+        "Question": "Czego do tej pory nie znaleziono w naszym garażu?",
+        "Answers": ["złodzieja","bezdomnego","gówna w reklamówce","samochodu kizo"],
         "Correct Answer": "1"
     },
     {
         "Author": "",
-        "Question": "Jaka marka suszarek i prostownic jest najbardziej luksusową w ostatnim czasie?",
-        "Answers": ["Philips", "Babyliss", "Remington", "Dyson"],
+        "Question": "Kiedy wejdziesz do windy to od razu zauważysz pewien napis, a jest to:",
+        "Answers": ["Grupa kamieniarzy z gdańskiej plazy","Marsala - ekipa remontowa","Gdansk Srebrniki - koks wóda i dziki ","Witek złota rączka"],
         "Correct Answer": "3"
     },
     {
         "Author": "",
-        "Question": "Ile cm ma wkładka odpowiadająca butom w rozmiarze 39?",
-        "Answers": ["25", "25,5", "24","24,5"],
+        "Question": "Ile bloków ma być docelowo na osiedlu srebrniki?",
+        "Answers": ["41","34","25","12"],
+        "Correct Answer": "0"
+    },
+    {
+        "Author": "",
+        "Question": "Ile bloków ma być docelowo na osiedlu srebrniki?",
+        "Answers": ["41","34","25","12"],
+        "Correct Answer": "0"
+    },
+    {
+        "Author": "",
+        "Question": "Ile seriali obejrzeliśmy w nowym mieszkaniu?",
+        "Answers": ["żadnego :(","1","2","4"],
+        "Correct Answer": "0"
+    },
+    {
+        "Author": "",
+        "Question": "Co mamy na dachu?",
+        "Answers": ["antenę","trawę","taras widokowy","koncert Kizo"],
         "Correct Answer": "1"
+    },
+    {
+        "Author": "",
+        "Question": "Kto nie zranił się jeszcze w tym mieszkaniu?",
+        "Answers": ["Ala","Marek","Piotruś","Mateusz"],
+        "Correct Answer": "1"
+    },
+    {
+        "Author": "",
+        "Question": "Ile jest mieszkań w tym bloku",
+        "Answers": ["69 B)","96","70","60"],
+        "Correct Answer": "0"
+    },
+    {
+        "Author": "",
+        "Question": "Jaki odcień farby jest w sypialni?",
+        "Answers": ["menthol","fjord","sage green","mermaid"],
+        "Correct Answer": "3"
+    },
+    {
+        "Author": "",
+        "Question": "Ile osób jest potrzebnych żeby złożyć 3 częściowy fotel z ikei mający 4 punktową instrukcję?",
+        "Answers": ["jeden inżynier","dwóch inżynierów","trzech inżynierów","czterech inżynierów"],
+        "Correct Answer": "3"
     }
 ]
