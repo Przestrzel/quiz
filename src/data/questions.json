@@ -1,74 +1,74 @@
 [
     {
-        "Author": "",
-        "Question": "Jak nazywa się nasz sławny sąsiad?",
-        "Answers": ["Jony Balcony","MR goła klata ","MR naked chest","MR Balcony"],
-        "Correct Answer": "3"
-    },
-    {
-        "Author": "",
-        "Question": "Nazwa nowego Macluarina to:",
-        "Answers": ["Torpeda","Petarda","Strzała","Wybuchowa"],
-        "Correct Answer": "0"
-    },
-    {
-        "Author": "",
-        "Question": "Czego do tej pory nie znaleziono w naszym garażu?",
-        "Answers": ["złodzieja","bezdomnego","gówna w reklamówce","samochodu kizo"],
+        "Author": "1",
+        "Question": "W jaki dzień tygodnia odbyło się tłuczenie butelek Damiana i Oli?",
+        "Answers": ["Czwartek","Piątek","Sobota","Niedziela"],
         "Correct Answer": "1"
     },
     {
-        "Author": "",
-        "Question": "Kiedy wejdziesz do windy to od razu zauważysz pewien napis, a jest to:",
-        "Answers": ["Grupa kamieniarzy z gdańskiej plazy","Marsala - ekipa remontowa","Gdansk Srebrniki - koks wóda i dziki ","Witek złota rączka"],
-        "Correct Answer": "3"
-    },
-    {
-        "Author": "",
-        "Question": "Ile bloków ma być docelowo na osiedlu srebrniki?",
-        "Answers": ["41","34","25","12"],
-        "Correct Answer": "0"
-    },
-    {
-        "Author": "",
-        "Question": "Ile bloków ma być docelowo na osiedlu srebrniki?",
-        "Answers": ["41","34","25","12"],
-        "Correct Answer": "0"
-    },
-    {
-        "Author": "",
-        "Question": "Ile seriali obejrzeliśmy w nowym mieszkaniu?",
-        "Answers": ["żadnego :(","1","2","4"],
-        "Correct Answer": "0"
-    },
-    {
-        "Author": "",
-        "Question": "Co mamy na dachu?",
-        "Answers": ["antenę","trawę","taras widokowy","koncert Kizo"],
+        "Author": "2",
+        "Question": "Ile kilometrów dzieli Kuksy od Dzierzgonia?",
+        "Answers": ["ok. 4km", "ok. 5km", "ok. 6km", "ok. 7km"],
         "Correct Answer": "1"
     },
     {
-        "Author": "",
-        "Question": "Kto nie zranił się jeszcze w tym mieszkaniu?",
-        "Answers": ["Ala","Marek","Piotruś","Mateusz"],
-        "Correct Answer": "1"
+        "Author": "3",
+        "Question": "Z czego ostatnimi dniami najbardziej dumna jest ciocia Marzena?",
+        "Answers": ["Z Adriana", "Z Szymona","Z obydwu synów", "Z polbruku"],
+        "Correct Answer": "3"
     },
     {
-        "Author": "",
-        "Question": "Ile jest mieszkań w tym bloku",
-        "Answers": ["69 B)","96","70","60"],
+        "Author": "4",
+        "Question": "Która z córek solenizantki jest najbardziej odważna?",
+        "Answers": ["Ala", "Ewa","Ela", "Marzena"],
         "Correct Answer": "0"
     },
     {
-        "Author": "",
-        "Question": "Jaki odcień farby jest w sypialni?",
-        "Answers": ["menthol","fjord","sage green","mermaid"],
+        "Author": "5",
+        "Question": "Które z wnucząt najczęściej podróżuje?",
+        "Answers": ["Adrian", "Natalia","Damian", "Karolina"],
+        "Correct Answer": "1"
+    },
+    {
+        "Author": "6",
+        "Question": "Dokończ zdanie, 'dzierż broń... '",
+        "Answers": ["na wojnę stój", "w bój skręć","na pole wkraczaj", "wroga goń"],
         "Correct Answer": "3"
     },
     {
-        "Author": "",
-        "Question": "Ile osób jest potrzebnych żeby złożyć 3 częściowy fotel z ikei mający 4 punktową instrukcję?",
-        "Answers": ["jeden inżynier","dwóch inżynierów","trzech inżynierów","czterech inżynierów"],
-        "Correct Answer": "3"
+        "Author": "7",
+        "Question": "Ilu mieszkańców liczy Dzierzgoń? (dane na rok 2022)",
+        "Answers": ["4991", "5282", "6129", "6251"],
+        "Correct Answer": "0"
+    },
+    {
+        "Author": "8",
+        "Question": "Jak nazywa się ulica, przy której znajduje się restauracja Studnia Smaków?",
+        "Answers": ["Wigilijna", "Choinkowa","Studzienna", "Smaczna"],
+        "Correct Answer": "2"
+    },
+    {
+        "Author": "9",
+        "Question": "Z jakiej miejscowości gości nie ma dzisiaj na sali?",
+        "Answers": ["Dzierzgoń", "Wrocław","Kraków", "Grudziądz"],
+        "Correct Answer": "2"
+    },
+    {
+        "Author": "10",
+        "Question": "Jakie warzywo zasadził w nowo postawionej szklarni nieobecny dzisiaj Tadzio?",
+        "Answers": ["Ogórek", "Pomidor","ziemniak", "bakłażan"],
+        "Correct Answer": "1"
+    },
+    {
+        "Author": "11",
+        "Question": "Ile pełnych miesięcy minęło od ostatniej rodzinnej imprezy w restauracji Studnia Smaków?",
+        "Answers": ["2", "3","4", "5"],
+        "Correct Answer": "2"
+    },
+    {
+        "Author": "12",
+        "Question": "W którym wieku koronowana na króla Polski została imienniczka solenizantki Jadwiga Andegaweńska",
+        "Answers": ["12", "13","14", "15"],
+        "Correct Answer": "2"
     }
 ]
