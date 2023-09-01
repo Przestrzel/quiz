@@ -3,7 +3,7 @@
         "Author": "1",
         "Question": "W jaki dzień tygodnia odbyło się tłuczenie butelek Damiana i Oli?",
         "Answers": ["Czwartek","Piątek","Sobota","Niedziela"],
-        "Correct Answer": "1"
+        "Correct Answer": "2"
     },
     {
         "Author": "2",
@@ -14,7 +14,7 @@
     {
         "Author": "3",
         "Question": "Z czego ostatnimi dniami najbardziej dumna jest ciocia Marzena?",
-        "Answers": ["Z Adriana", "Z Szymona","Z obydwu synów", "Z polbruku"],
+        "Answers": ["Z nadchodzącej jesieni", "Z nowej sukienki","Z nowej pracy", "Z polbruku"],
         "Correct Answer": "3"
     },
     {
@@ -25,33 +25,33 @@
     },
     {
         "Author": "5",
-        "Question": "Które z wnucząt najczęściej podróżuje?",
-        "Answers": ["Adrian", "Natalia","Damian", "Karolina"],
-        "Correct Answer": "1"
-    },
-    {
-        "Author": "6",
         "Question": "Dokończ zdanie, 'dzierż broń... '",
         "Answers": ["na wojnę stój", "w bój skręć","na pole wkraczaj", "wroga goń"],
         "Correct Answer": "3"
     },
     {
-        "Author": "7",
+        "Author": "6",
         "Question": "Ilu mieszkańców liczy Dzierzgoń? (dane na rok 2022)",
         "Answers": ["4991", "5282", "6129", "6251"],
         "Correct Answer": "0"
     },
     {
-        "Author": "8",
+        "Author": "7",
         "Question": "Jak nazywa się ulica, przy której znajduje się restauracja Studnia Smaków?",
         "Answers": ["Wigilijna", "Choinkowa","Studzienna", "Smaczna"],
         "Correct Answer": "2"
     },
     {
-        "Author": "9",
+        "Author": "8",
         "Question": "Z jakiej miejscowości gości nie ma dzisiaj na sali?",
         "Answers": ["Dzierzgoń", "Wrocław","Kraków", "Grudziądz"],
         "Correct Answer": "2"
+    },
+    {
+        "Author": "9",
+        "Question": "Które z wnucząt najczęściej podróżuje?",
+        "Answers": ["Adrian", "Natalia","Damian", "Karolina"],
+        "Correct Answer": "1"
     },
     {
         "Author": "10",
@@ -67,8 +67,8 @@
     },
     {
         "Author": "12",
-        "Question": "W którym wieku koronowana na króla Polski została imienniczka solenizantki Jadwiga Andegaweńska",
+        "Question": "W którym wieku koronowana na króla Polski została imienniczka solenizantki Jadwiga Andegaweńska?",
         "Answers": ["12", "13","14", "15"],
         "Correct Answer": "2"
-    }
+    },
 ]
